@@ -16,3 +16,7 @@ Welcome to the Green Bliss Landing Page project! This is a simple and elegant la
 - **Swiper.js:** A modern touch slider library used for creating the product image carousel.
 - **Font Awesome:** Provides scalable vector icons for social media links and other UI elements.
 - **Google Fonts:** Includes the 'Montserrat' font for clean typography.
+
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/81749ccd-d5fa-4eb7-aaaa-5eac26cb4313)
