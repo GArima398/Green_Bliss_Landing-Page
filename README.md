@@ -1,9 +1,4 @@
-# Grren_Bliss_Landing-Page
-Welcome to the Green Bliss Landing Page project! This is a simple and elegant landing page designed to promote a new line of green tea products. It features a modern design with a responsive layout, a product carousel, and various informational sections.
-
-![image](https://github.com/user-attachments/assets/726f4752-18ff-4623-b4d2-7eb2e5b5d6b1)
-
-
+# Green_Bliss_Landing-Page
 Welcome to the Green Bliss Landing Page project! This is a simple and elegant landing page designed to promote a new line of green tea products. It features a modern design with a responsive layout, a product carousel, and various informational sections.
 
 
